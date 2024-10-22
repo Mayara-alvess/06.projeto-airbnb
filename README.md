@@ -104,3 +104,7 @@ Na base disponível, podemos observar que, ao longo dos anos, a média de avalia
 
 - Número médio de noites que os hóspedes costumam alugar.
 </details>
+
+## Para uma ficha técnica mais detalhada e consultas SQL, consulte:
+[Notion](https://www.notion.so/PROJETO-BI-FICHA-T-CNICA-111abd8a87ea80faad29e916c959754a)
+
